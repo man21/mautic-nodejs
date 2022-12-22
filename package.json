@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6",
     "express-router": "0.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mautic-api-node": "0.0.7",
     "mocha": "^7.1.0",
     "mysql2": "^2.1.0",
